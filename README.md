@@ -56,6 +56,7 @@
 23. [Dive into Deep Learning](https://d2l.ai/index.html)
 24. [Deep Learning: Ian Goodfellow](https://www.deeplearningbook.org/)
 25. [Mastering Reinforcement learning](https://gibberblot.github.io/rl-notes/index.html#)
+26. [ai-engineering-book](https://github.com/chiphuyen/aie-book)
 
 ## Computer Vision
 1. [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
